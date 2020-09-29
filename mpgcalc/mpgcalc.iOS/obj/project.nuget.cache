@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DunIu3mY9f4u5t4myVo2ERJ1IFcBdBQINtjEkSqUTskhu9rVfHSSF+wjJ4Jn5nQWAY6QB5r7frVOCWzP7BoXJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalli\\source\\repos\\mpgcalc\\mpgcalc\\mpgcalc.iOS\\mpgcalc.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

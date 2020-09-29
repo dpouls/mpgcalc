@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\bin\Debug\netstandard2.0\mpgcalc.deps.json
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\bin\Debug\netstandard2.0\mpgcalc.dll
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\bin\Debug\netstandard2.0\ref\mpgcalc.dll
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\bin\Debug\netstandard2.0\mpgcalc.pdb
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\mpgcalc.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\mpgcalc.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\mpgcalc.AssemblyInfo.cs
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\mpgcalc.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\mpgcalc.dll
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\ref\mpgcalc.dll
+C:\Users\dalli\source\repos\mpgcalc\mpgcalc\mpgcalc\obj\Debug\netstandard2.0\mpgcalc.pdb
